@@ -23,3 +23,7 @@ if we want to perform direct commit
 if will not commit to those file which are untracked or on staged
 ""
 
+to see previous commit
+-->git log
+
+
