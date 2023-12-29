@@ -1,0 +1,11 @@
+to create a file
+---> touch file.log
+
+to create a .gitignore file
+---> touch .gitignore
+""
+1: if we add aextension in the file hten it will ignore that file
+2: if we add "*.log" than it will ignore all the log file
+3: if we add "dir/" than it will ignore all the folder whose name is "dir"
+4: if we add "/dir/" than it will ignore only thath folder which is present in the current directory whose name is "dir"
+""
