@@ -9,3 +9,9 @@ to create a .gitignore file
 3: if we add "dir/" than it will ignore all the folder whose name is "dir"
 4: if we add "/dir/" than it will ignore only thath folder which is present in the current directory whose name is "dir"
 ""
+
+Compare working directory to stagging directory
+---> git diff
+
+Compare previous comiited directory to stagging directory
+---> git diff --staged
