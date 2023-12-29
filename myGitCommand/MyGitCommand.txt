@@ -16,3 +16,10 @@ Compare working directory to stagging directory
 
 Compare previous comiited directory to stagging directory
 ---> git diff --staged
+
+if we want to perform direct commit 
+--->git commit -a -m "..."
+""
+if will not commit to those file which are untracked or on staged
+""
+
