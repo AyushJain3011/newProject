@@ -26,4 +26,10 @@ if will not commit to those file which are untracked or on staged
 to see previous commit
 -->git log
 
+Removing a file
+---> git rm <filename>
+
+Renaming a file
+---> git mv <pre_name> <new_name>
+
 
