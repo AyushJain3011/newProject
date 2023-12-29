@@ -11,6 +11,7 @@ to create a .gitignore file
 ""
 
 Compare working directory to stagging directory
+(IF STAGING AREA is empty)compare  current state of repo with last commit
 ---> git diff
 
 Compare previous comiited directory to stagging directory
