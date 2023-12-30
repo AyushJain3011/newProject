@@ -26,10 +26,21 @@ if will not commit to those file which are untracked or on staged
 to see previous commit
 -->git log
 
+To check previous 3 commit
+--->git log -p -3
+
+to check all previous commmit
+---> git log -p
+
+
+
+
 Removing a file
 ---> git rm <filename>
 
 Renaming a file
 ---> git mv <pre_name> <new_name>
+
+
 
 
